@@ -1,0 +1,63 @@
+2000/01/01 Salary
+    Income:Salary	-8000.00
+    Assets:Checking	8000.00
+
+2000/01/02 Savings
+    Assets:Checking	-3000.00
+    Assets:Savings	3000.00
+
+2000/01/02 Groceries
+    Assets:Checking	-100.00
+    Expenses:Groceries	100.00
+
+2000/01/03 Rent
+    Assets:Savings	-1000.00
+    Liabilities:Rent	1000.00
+
+2000/01/04 Entertainment
+    Assets:Savings	-150.00
+    Expenses:Entertainment	150.00
+
+2000/01/05 Car loan payment
+    Assets:Checking	-250.00
+    Liabilities:Car 	250.00
+
+2000/01/06 Gym
+    Assets:Savings	-50.00
+    Expenses:Gym	50.00
+
+2000/01/07 Miscellaneous
+    Assets:Checking	-25.00
+    Expenses:Misc	25.00
+
+2000/01/08 Groceries
+    Assets:Savings	-100.00
+    Expenses:Groceries	100.00
+
+2000/01/09 Salary
+    Income:Salary	-3000.00
+    Assets:Checking	3000.00
+
+2000/01/10 Entertainment
+    Assets:Checking	-150.00
+    Expenses:Entertainment	150.00
+
+2000/01/11 Rent
+    Assets:Checking	-1000.00
+    Liabilities:Rent	1000.00
+
+2000/01/12 Gym
+    Assets:Checking	-50.00
+    Expenses:Gym	50.00
+
+2000/01/13 Groceries
+    Assets:Checking	-100.00
+    Expenses:Groceries	100.00
+
+2000/01/14 Miscellaneous
+    Assets:Savings	-25.00
+    Expenses:Misc	25.00
+
+2000/01/15 Car
+    Assets:Savings	-250.00
+    Liabilities:Car 	250.00
